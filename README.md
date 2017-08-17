@@ -1,3 +1,3 @@
 ## Image Blur Problem
 
-Solution and Tests to the Firehose Image #2 problem.
+Solution and Tests to the  Image Blur problem.
